@@ -1,5 +1,6 @@
 /* CSS */
 
+.m-auto{margin: auto;}
 .dp_flex{display: flex;}
 .fill-fit{
   object-fit: contain;
