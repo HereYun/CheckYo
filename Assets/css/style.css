@@ -1,9 +1,14 @@
 /* CSS */
 
 .dp_flex{display: flex;}
+.fill-fit{
+  object-fit: contain;
+  width: -webkit-fill-available;
+  height: -webkit-fill-available;
+}
 
 .box-set-000{border: 1px solid black;}
-.box-set-001{width: 50px; float: left;}
+.box-set-001{width: 4em; float: left;}
 .box-set-002{width: 40%;}
 .box-set-011{width: 20%; padding: 0 0.5rem; background-color: lightgray;}
 .box-set-100{height: 30vh; background-color: rgb(180, 220, 180);}
