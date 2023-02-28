@@ -1,2 +1,2 @@
 User-agent: Allow:/
-Sitemap: https://hereyun.github.io/sitemap.xml
+Sitemap: https://TheNuy.github.io/sitemap.xml
