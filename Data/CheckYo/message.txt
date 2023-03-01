@@ -1,20 +1,42 @@
-CheckYo
-필수 업데이트가 있습니다 (There is a mandatory update).
-1.0.27
-true
-
-30초 광고 보기
-Ads of 30 seconds
-5~30초 광고 보기
-Ads of 5~30 seconds
-5초 광고 보기
-Ads of 5 seconds
-광고 정지 기념 자체 광고
-Self of  suffer private Ads
-true
-10
-6
-5
-4
-1
-https://play.google.com/store/apps/details?id=com.JioSpace.JioDice
+@#@CheckYo
+@#@1.0.27
+@#@
+@#@필수 업데이트가 있습니다 (There is a mandatory update).
+@#@
+@#@
+@#@
+@#@
+@#@
+@#@
+@#@
+@#@
+@#@30초 광고 보기
+@#@Ads of 30 seconds
+@#@5~30초 광고 보기
+@#@Ads of 5~30 seconds
+@#@5초 광고 보기
+@#@Ads of 5 seconds
+@#@광고 정지 기념 자체 광고
+@#@Self of  suffer private Ads
+@#@true
+@#@true
+@#@
+@#@
+@#@
+@#@
+@#@
+@#@
+@#@
+@#@
+@#@10
+@#@6
+@#@5
+@#@4
+@#@1
+@#@
+@#@
+@#@
+@#@
+@#@
+@#@https://thenuy.github.io/ko/App/
+@#@https://play.google.com/store/apps/details?id=com.JioSpace.JioDice
