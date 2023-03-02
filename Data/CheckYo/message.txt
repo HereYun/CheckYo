@@ -39,7 +39,7 @@
 @#@
 @#@https://thenuy.github.io/ko/App/
 @#@https://play.google.com/store/apps/details?id=com.JioSpace.JioDice
-@#@
+@#@https://play.google.com/store/apps/details?id=com.JioSpace.JioChecker
 @#@
 @#@
 @#@
