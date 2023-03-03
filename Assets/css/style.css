@@ -238,7 +238,7 @@ viewport 를 기준으로 top, right, bottom, left 만큼 배치한다.
 
 /* container 의 잔상 설정. 앞에 inset 이 붙으면 잔상을 container 안쪽으로 그린다. */
 .nb-sd-i{box-shadow: initial;}
-.nb-sd d{box-shadow: 1px, 1px, grey} /* x y */
+.nb-sd-d{box-shadow: 1px, 1px, grey} /* x y */
 .nb-sd-di{box-shadow: inset 1px, 1px, grey} /* inset x y */
 .nb-sd-db{box-shadow: 1px, 1px, 1px, grey} /* x y blur-radius */
 .nb-sd-dbs{box-shadow: 1px, 1px, 1px, 1px, grey} /* x y blur-radius spread-radius */
