@@ -1,6 +1,6 @@
 
 `CheckYo
-`1.0.27
+`1.0.31
 `
 `필수 업데이트가 있습니다 (There is a mandatory update).
 `
