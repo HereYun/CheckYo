@@ -1,65 +1,66 @@
-SFLt
-<br>s_VerNic = 0 ==
-<br>s_Letter = 1 ==
-<br>s_Letter2 = 2 ==
-<br>s_Ebmty2 = 3 ==
-<br>s_URL = 4 ==
-<br>s_Ebmty4 = 5 ==
-<br>s_AdsNotice = 6 ==
-<br>s_AdsL1 = 7 ==
-<br>s_AdsL2 = 8 ==
-<br>s_AdsL3 = 9 ==
-<br>s_AdsL4 = 10 ==
-<br>s_AdsL1E = 11 ==
-<br>s_AdsL2E = 12 ==
-<br>s_AdsL3E = 13 ==
-<br>s_AdsL4E = 14 ==
+<< SFLt >>
 <br>
-<br>f_Estimate = 0 ==
-<br>f_TransEstimate = 1 ==
-<br>f_empty = 2 ==
-<br>f_CDA1_Value = 3 ==
-<br>f_CDA2_Value = 4 ==
-<br>f_CDA3_Value = 5 ==
-<br>f_CDA4_Value = 6 ==
+<br>sign(0) == (31)s_VerNic
+<br>sign(1) == (31)s_Letter
+<br>sign(2) == (31)s_Letter2
+<br>sign(3) == (31)s_Ebmty2
+<br>sign(4) == (31)s_URL
+<br>sign(5) == (31)s_Ebmty4
+<br>sign(6) == (31)s_AdsNotice
+<br>sign(7) == (31)s_AdsL1
+<br>sign(8) == (31)s_AdsL2
+<br>sign(9) == (31)s_AdsL3
+<br>sign(10) == (31)s_AdsL4
+<br>sign(11) == (31)s_AdsL1E
+<br>sign(12) == (31)s_AdsL2E
+<br>sign(13) == (31)s_AdsL3E
+<br>sign(14) == (31)s_AdsL4E
 <br>
-<br>iS_Language = 0 ==
-<br>iS_Ver = 1 ==
-<br>iS_BackVer = 2 ==
-<br>iS_CDA1_Day = 3 ==
-<br>iS_CDA2_Day = 4 ==
-<br>iS_CDA3_Day = 5 ==
-<br>iS_CDA4_Day = 6 ==
-<br>iS_BoxFont = 7 ==
-<br>iS_MemoFont = 8 ==
-<br>iS_OtherFont = 9 ==
-<br>iS_imSet_BackSCDB = 10 ==
-<br>iS_imSet_BackLB = 11 ==
-<br>iS_AdsS1 = 12 ==
-<br>iS_AdsS2 = 13 ==
-<br>iS_AdsS3 = 14 ==
-<br>iS_AdsS4 = 15 ==
-<br>iS_AdsPrize = 16 ==
+<br>xyz(0) == (31)f_Estimate
+<br>xyz(1) == (31)f_TransEstimate
+<br>xyz(2) == (31)f_empty
+<br>xyz(3) == (31)f_CDA1_Value
+<br>xyz(4) == (31)f_CDA2_Value
+<br>xyz(5) == (31)f_CDA3_Value
+<br>xyz(6) == (31)f_CDA4_Value
 <br>
-<br>iM_Advertise = 0 ==
-<br>iM_Earn = 1 ==
-<br>iM_Additional = 2 ==
-<br>iM_Total = 3 ==
-<br>iM_Period = 4 ==
-<br>iM_Attend = 5 ==
-<br>iM_SaveYY = 6 ==
-<br>iM_SaveMM = 7 ==
-<br>iM_SaveDD = 8 ==
-<br>iM_CertifyDay = 9 ==
-<br>iM_CDA1_Day = 10 ==
-<br>iM_CDA2_Day = 11 ==
-<br>iM_CDA3_Day = 12 ==
-<br>iM_CDA4_Day = 13 ==
+<br>set(0) == (31)iS_Language
+<br>set(1) == (31)iS_Ver
+<br>set(2) == (31)iS_BackVer
+<br>set(3) == (31)iS_CDA1_Day
+<br>set(4) == (31)iS_CDA2_Day
+<br>set(5) == (31)iS_CDA3_Day
+<br>set(6) == (31)iS_CDA4_Day
+<br>set(7) == (31)iS_BoxFont
+<br>set(8) == (31)iS_MemoFont
+<br>set(9) == (31)iS_OtherFont
+<br>set(10) == (31)iS_imSet_BackSCDB
+<br>set(11) == (31)iS_imSet_BackLB
+<br>set(12) == (31)iS_AdsS1
+<br>set(13) == (31)iS_AdsS2
+<br>set(14) == (31)iS_AdsS3
+<br>set(15) == (31)iS_AdsS4
+<br>set(16) == (31)iS_AdsPrize
 <br>
-<br>b_HideE = 0 ==
-<br>b_HideT = 1 ==
-<br>b_OnPeriod = 2 ==
-<br>b_HaveOld = 3 ==
-<br>b_GetDay = 4 ==
-<br>b_AdsOpen = 5 ==
-<br>b_AdsToday = 6 ==
+<br>memory(0) == (31)iM_Advertise
+<br>memory(1) == (31)iM_Earn
+<br>memory(2) == (31)iM_Additional
+<br>memory(3) == (31)iM_Total
+<br>memory(4) == (31)iM_Period
+<br>memory(5) == (31)iM_Attend
+<br>memory(6) == (31)iM_SaveYY
+<br>memory(7) == (31)iM_SaveMM
+<br>memory(8) == (31)iM_SaveDD
+<br>memory(9) == (31)iM_CertifyDay
+<br>memory(10) == (31)iM_CDA1_Day
+<br>memory(11) == (31)iM_CDA2_Day
+<br>memory(12) == (31)iM_CDA3_Day
+<br>memory(13) == (31)iM_CDA4_Day
+<br>
+<br>onOff(0) == (31)b_HideE
+<br>onOff(1) == (31)b_HideT
+<br>onOff(2) == (31)b_OnPeriod
+<br>onOff(3) == (31)b_HaveOld
+<br>onOff(4) == (31)b_GetDay
+<br>onOff(5) == (31)b_AdsOpen
+<br>onOff(6) == (31)b_AdsToday
