@@ -97,7 +97,7 @@
 <br>(27)bool == (31)OnEmpty7
 <br>(28)bool == (31)OnEmpty8
 <br>(29)bool == (31)OnEmpty9
-<br>(30)bool == (31)AdsPrize
+<br>(30)integer == (31)AdsPrize
 <br>(31)integer == (31)AdsS1
 <br>(32)integer == (31)AdsS2
 <br>(33)integer == (31)AdsS3
