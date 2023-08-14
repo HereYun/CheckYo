@@ -87,7 +87,7 @@
 <br>(17)string == (31)AdsL3E
 <br>(18)string == (31)AdsL4
 <br>(19)string == (31)AdsL4E
-<br>(20)string == (31)OnEmpty1
+<br>(20)bool == (31)OnEmpty1
 <br>(21)bool == (31)AdsOpen
 <br>(22)bool == (31)OnEmpty2
 <br>(23)bool == (31)OnEmpty3
