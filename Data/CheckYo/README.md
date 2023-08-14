@@ -1,6 +1,6 @@
-<< SFLt >>
+<< SFLt - in Storage.cs >>
 <br>
-<br>sign(0) == (31)s_VerNic
+<br>sign(0) == (31)s_VerNic(v)
 <br>sign(1) == (31)s_Letter
 <br>sign(2) == (31)s_Letter2
 <br>sign(3) == (31)s_Ebmty2
@@ -17,7 +17,7 @@
 <br>sign(14) == (31)s_AdsL4E
 <br>
 <br>xyz(0) == (31)f_Estimate
-<br>xyz(1) == (31)f_TransEstimate
+<br>xyz(1) == (31)f_TransEstimate(v)
 <br>xyz(2) == (31)f_empty
 <br>xyz(3) == (31)f_CDA1_Value
 <br>xyz(4) == (31)f_CDA2_Value
@@ -64,3 +64,59 @@
 <br>onOff(4) == (31)b_GetDay
 <br>onOff(5) == (31)b_AdsOpen
 <br>onOff(6) == (31)b_AdsToday
+<br>
+<br>--------------------------------------------------------------------------------
+<br><< CheckYo - in sign.cs >>
+<br>(0) == (31)AppNull
+<br>(1) == (31)AppName
+<br>(2) == (31)AppVersion
+<br>(3) == (31)AppNotice
+<br>(4) == (31)AppLetter
+<br>(5) == (31)Empty2
+<br>(6) == (31)Empty3
+<br>(7) == (31)Empty4
+<br>(8) == (31)Empty5
+<br>(9) == (31)Empty6
+<br>(10) == (31)Empty7
+<br>(11) == (31)Empty8
+<br>(12) == (31)AdsL1
+<br>(13) == (31)AdsL1E
+<br>(14) == (31)AdsL2
+<br>(15) == (31)AdsL2E
+<br>(16) == (31)AdsL3
+<br>(17) == (31)AdsL3E
+<br>(18) == (31)AdsL4
+<br>(19) == (31)AdsL4E
+<br>(20) == (31)OnEmpty1
+<br>(21) == (31)AdsOpen
+<br>(22) == (31)OnEmpty2
+<br>(23) == (31)OnEmpty3
+<br>(24) == (31)OnEmpty4
+<br>(25) == (31)OnEmpty5
+<br>(26) == (31)OnEmpty6
+<br>(27) == (31)OnEmpty7
+<br>(28) == (31)OnEmpty8
+<br>(29) == (31)OnEmpty9
+<br>(30) == (31)AdsPrize
+<br>(31) == (31)AdsS1
+<br>(32) == (31)AdsS2
+<br>(33) == (31)AdsS3
+<br>(34) == (31)AdsS4
+<br>(35) == (31)Empty9
+<br>(36) == (31)Empty10
+<br>(37) == (31)Empty11
+<br>(38) == (31)Empty12
+<br>(39) == (31)Empty13
+<br>(40) == (31)Link_0
+<br>(41) == (31)Link_1
+<br>(42) == (31)Link_2
+<br>(43) == (31)Link_3
+<br>(44) == (31)Link_4
+<br>(45) == (31)Link_5
+<br>(46) == (31)Link_6
+<br>(47) == (31)Link_7
+<br>(48) == (31)Link_8
+<br>(49) == (31)Link_9
+<br>(50) == (31)ListLimit
+<br>(51) == (31) 
+<br>--------------------------------------------------------------------------------
