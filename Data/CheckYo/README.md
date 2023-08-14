@@ -60,17 +60,17 @@
 <br>sign(1) == (31)s_Letter
 <br>sign(2) == (31)s_Letter2
 <br>sign(3) == (31)s_Ebmty2
-<br>sign(4) == (31)s_URL
+<br>sign(4) == (31)s_URL(v)
 <br>sign(5) == (31)s_Ebmty4
-<br>sign(6) == (31)s_AdsNotice
-<br>sign(7) == (31)s_AdsL1
-<br>sign(8) == (31)s_AdsL2
-<br>sign(9) == (31)s_AdsL3
-<br>sign(10) == (31)s_AdsL4
-<br>sign(11) == (31)s_AdsL1E
-<br>sign(12) == (31)s_AdsL2E
-<br>sign(13) == (31)s_AdsL3E
-<br>sign(14) == (31)s_AdsL4E
+<br>sign(6) == (31)s_AdsNotice(v)
+<br>sign(7) == (31)s_AdsL1(v)
+<br>sign(8) == (31)s_AdsL2(v)
+<br>sign(9) == (31)s_AdsL3(v)
+<br>sign(10) == (31)s_AdsL4(v)
+<br>sign(11) == (31)s_AdsL1E(v)
+<br>sign(12) == (31)s_AdsL2E(v)
+<br>sign(13) == (31)s_AdsL3E(v)
+<br>sign(14) == (31)s_AdsL4E(v)
 <br>
 <br>xyz(0) == (31)f_Estimate
 <br>xyz(1) == (31)f_TransEstimate(v)
@@ -100,14 +100,14 @@
 <br>
 <br>memory(0) == (31)iM_Advertise
 <br>memory(1) == (31)iM_Earn
-<br>memory(2) == (31)iM_Additional
+<br>memory(2) == (31)iM_Additional(v)
 <br>memory(3) == (31)iM_Total
 <br>memory(4) == (31)iM_Period
 <br>memory(5) == (31)iM_Attend
 <br>memory(6) == (31)iM_SaveYY
 <br>memory(7) == (31)iM_SaveMM
 <br>memory(8) == (31)iM_SaveDD
-<br>memory(9) == (31)iM_CertifyDay
+<br>memory(9) == (31)iM_CertifyDay(v)
 <br>memory(10) == (31)iM_CDA1_Day
 <br>memory(11) == (31)iM_CDA2_Day
 <br>memory(12) == (31)iM_CDA3_Day
@@ -117,8 +117,8 @@
 <br>onOff(1) == (31)b_HideT
 <br>onOff(2) == (31)b_OnPeriod
 <br>onOff(3) == (31)b_HaveOld
-<br>onOff(4) == (31)b_GetDay
+<br>onOff(4) == (31)b_GetDay(v)
 <br>onOff(5) == (31)b_AdsOpen
-<br>onOff(6) == (31)b_AdsToday
+<br>onOff(6) == (31)b_AdsToday(v)
 <br>
 <br>--------------------------------------------------------------------------------
