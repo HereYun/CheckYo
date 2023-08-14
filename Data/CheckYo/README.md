@@ -1,4 +1,59 @@
-<< SFLt - in Storage.cs >>
+<< CheckYo - in sign.cs >>
+<br>(0)string == (31)AppNull
+<br>(1)string == (31)AppName
+<br>(2)string == (31)AppVersion
+<br>(3)string == (31)AppNotice
+<br>(4)string == (31)AppLetter
+<br>(5)string == (31)Empty2
+<br>(6)string == (31)Empty3
+<br>(7)string == (31)Empty4
+<br>(8)string == (31)Empty5
+<br>(9)string == (31)Empty6
+<br>(10)string == (31)Empty7
+<br>(11)string == (31)Empty8
+<br>(12)string == (31)AdsL1
+<br>(13)string == (31)AdsL1E
+<br>(14)string == (31)AdsL2
+<br>(15)string == (31)AdsL2E
+<br>(16)string == (31)AdsL3
+<br>(17)string == (31)AdsL3E
+<br>(18)string == (31)AdsL4
+<br>(19)string == (31)AdsL4E
+<br>(20)bool == (31)OnEmpty1
+<br>(21)bool == (31)AdsOpen
+<br>(22)bool == (31)OnEmpty2
+<br>(23)bool == (31)OnEmpty3
+<br>(24)bool == (31)OnEmpty4
+<br>(25)bool == (31)OnEmpty5
+<br>(26)bool == (31)OnEmpty6
+<br>(27)bool == (31)OnEmpty7
+<br>(28)bool == (31)OnEmpty8
+<br>(29)bool == (31)OnEmpty9
+<br>(30)integer == (31)AdsPrize
+<br>(31)integer == (31)AdsS1
+<br>(32)integer == (31)AdsS2
+<br>(33)integer == (31)AdsS3
+<br>(34)integer == (31)AdsS4
+<br>(35)integer == (31)Empty9
+<br>(36)integer == (31)Empty10
+<br>(37)integer == (31)Empty11
+<br>(38)integer == (31)Empty12
+<br>(39)integer == (31)Empty13
+<br>(40) == (31)Link_0
+<br>(41) == (31)Link_1
+<br>(42) == (31)Link_2
+<br>(43) == (31)Link_3
+<br>(44) == (31)Link_4
+<br>(45) == (31)Link_5
+<br>(46) == (31)Link_6
+<br>(47) == (31)Link_7
+<br>(48) == (31)Link_8
+<br>(49) == (31)Link_9
+<br>(50) == (31)ListLimit
+<br>(51) == (31) 
+<br>
+<br>--------------------------------------------------------------------------------
+<br><< SFLt - in Storage.cs >>
 <br>
 <br>sign(0) == (31)s_VerNic(v)
 <br>sign(1) == (31)s_Letter
@@ -65,58 +120,4 @@
 <br>onOff(5) == (31)b_AdsOpen
 <br>onOff(6) == (31)b_AdsToday
 <br>
-<br>--------------------------------------------------------------------------------
-<br><< CheckYo - in sign.cs >>
-<br>(0)string == (31)AppNull
-<br>(1)string == (31)AppName
-<br>(2)string == (31)AppVersion
-<br>(3)string == (31)AppNotice
-<br>(4)string == (31)AppLetter
-<br>(5)string == (31)Empty2
-<br>(6)string == (31)Empty3
-<br>(7)string == (31)Empty4
-<br>(8)string == (31)Empty5
-<br>(9)string == (31)Empty6
-<br>(10)string == (31)Empty7
-<br>(11)string == (31)Empty8
-<br>(12)string == (31)AdsL1
-<br>(13)string == (31)AdsL1E
-<br>(14)string == (31)AdsL2
-<br>(15)string == (31)AdsL2E
-<br>(16)string == (31)AdsL3
-<br>(17)string == (31)AdsL3E
-<br>(18)string == (31)AdsL4
-<br>(19)string == (31)AdsL4E
-<br>(20)bool == (31)OnEmpty1
-<br>(21)bool == (31)AdsOpen
-<br>(22)bool == (31)OnEmpty2
-<br>(23)bool == (31)OnEmpty3
-<br>(24)bool == (31)OnEmpty4
-<br>(25)bool == (31)OnEmpty5
-<br>(26)bool == (31)OnEmpty6
-<br>(27)bool == (31)OnEmpty7
-<br>(28)bool == (31)OnEmpty8
-<br>(29)bool == (31)OnEmpty9
-<br>(30)integer == (31)AdsPrize
-<br>(31)integer == (31)AdsS1
-<br>(32)integer == (31)AdsS2
-<br>(33)integer == (31)AdsS3
-<br>(34)integer == (31)AdsS4
-<br>(35)integer == (31)Empty9
-<br>(36)integer == (31)Empty10
-<br>(37)integer == (31)Empty11
-<br>(38)integer == (31)Empty12
-<br>(39)integer == (31)Empty13
-<br>(40) == (31)Link_0
-<br>(41) == (31)Link_1
-<br>(42) == (31)Link_2
-<br>(43) == (31)Link_3
-<br>(44) == (31)Link_4
-<br>(45) == (31)Link_5
-<br>(46) == (31)Link_6
-<br>(47) == (31)Link_7
-<br>(48) == (31)Link_8
-<br>(49) == (31)Link_9
-<br>(50) == (31)ListLimit
-<br>(51) == (31) 
 <br>--------------------------------------------------------------------------------
