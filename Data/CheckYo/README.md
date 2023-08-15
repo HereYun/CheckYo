@@ -60,17 +60,17 @@
 <br>sign(1) == (31)s_Letter
 <br>sign(2) == (31)s_Letter2
 <br>sign(3) == (31)s_Ebmty2
-<br>sign(4) == (31)s_URL::RestructureFile
+<br>sign(4) == (31)s_URL::RestructureFile(WebRequest)
 <br>sign(5) == (31)s_Ebmty4
-<br>sign(6) == (31)s_AdsNotice::RestructureFile
-<br>sign(7) == (31)s_AdsL1::RestructureFile
-<br>sign(8) == (31)s_AdsL2::RestructureFile
-<br>sign(9) == (31)s_AdsL3::RestructureFile
-<br>sign(10) == (31)s_AdsL4::RestructureFile
-<br>sign(11) == (31)s_AdsL1E::RestructureFile
-<br>sign(12) == (31)s_AdsL2E::RestructureFile
-<br>sign(13) == (31)s_AdsL3E::RestructureFile
-<br>sign(14) == (31)s_AdsL4E::RestructureFile
+<br>sign(6) == (31)s_AdsNotice::RestructureFile(WebRequest)
+<br>sign(7) == (31)s_AdsL1::RestructureFile(WebRequest)
+<br>sign(8) == (31)s_AdsL2::RestructureFile(WebRequest)
+<br>sign(9) == (31)s_AdsL3::RestructureFile(WebRequest)
+<br>sign(10) == (31)s_AdsL4::RestructureFile(WebRequest)
+<br>sign(11) == (31)s_AdsL1E::RestructureFile(WebRequest)
+<br>sign(12) == (31)s_AdsL2E::RestructureFile(WebRequest)
+<br>sign(13) == (31)s_AdsL3E::RestructureFile(WebRequest)
+<br>sign(14) == (31)s_AdsL4E::RestructureFile(WebRequest)
 <br>
 <br>xyz(0) == (31)f_Estimate
 <br>xyz(1) == (31)f_TransEstimate::MakeFile
@@ -92,22 +92,22 @@
 <br>set(9) == (31)iS_OtherFont
 <br>set(10) == (31)iS_imSet_BackSCDB
 <br>set(11) == (31)iS_imSet_BackLB
-<br>set(12) == (31)iS_AdsS1::RestructureFile
-<br>set(13) == (31)iS_AdsS2::RestructureFile
-<br>set(14) == (31)iS_AdsS3::RestructureFile
-<br>set(15) == (31)iS_AdsS4::RestructureFile
-<br>set(16) == (31)iS_AdsPrize::RestructureFile
+<br>set(12) == (31)iS_AdsS1::RestructureFile(WebRequest)
+<br>set(13) == (31)iS_AdsS2::RestructureFile(WebRequest)
+<br>set(14) == (31)iS_AdsS3::RestructureFile(WebRequest)
+<br>set(15) == (31)iS_AdsS4::RestructureFile(WebRequest)
+<br>set(16) == (31)iS_AdsPrize::RestructureFile(WebRequest)
 <br>
 <br>memory(0) == (31)iM_Advertise
 <br>memory(1) == (31)iM_Earn::MakeFile
-<br>memory(2) == (31)iM_Additional::MakeFile
+<br>memory(2) == (31)iM_Additional
 <br>memory(3) == (31)iM_Total
 <br>memory(4) == (31)iM_Period
 <br>memory(5) == (31)iM_Attend
 <br>memory(6) == (31)iM_SaveYY
 <br>memory(7) == (31)iM_SaveMM
 <br>memory(8) == (31)iM_SaveDD
-<br>memory(9) == (31)iM_CertifyDay::
+<br>memory(9) == (31)iM_CertifyDay::RestructureFile
 <br>memory(10) == (31)iM_CDA1_Day
 <br>memory(11) == (31)iM_CDA2_Day
 <br>memory(12) == (31)iM_CDA3_Day
@@ -117,8 +117,8 @@
 <br>onOff(1) == (31)b_HideT
 <br>onOff(2) == (31)b_OnPeriod
 <br>onOff(3) == (31)b_HaveOld
-<br>onOff(4) == (31)b_GetDay::RestructureFile
-<br>onOff(5) == (31)b_AdsOpen::RestructureFile
-<br>onOff(6) == (31)b_AdsToday::RestructureFile
+<br>onOff(4) == (31)b_GetDay::RestructureFile(ReCertifyToday)
+<br>onOff(5) == (31)b_AdsOpen::RestructureFile(WebRequest)
+<br>onOff(6) == (31)b_AdsToday::RestructureFile(ReCertifyToday)
 <br>
 <br>--------------------------------------------------------------------------------
