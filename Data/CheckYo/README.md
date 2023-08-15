@@ -3,7 +3,7 @@
 <br>(1)string == (31)AppName
 <br>(2)string == (31)AppVersion
 <br>(3)string == (31)AppNotice
-<br>(4)string == (31)AppLetter
+<br>(4)string == (31)AppLetter::s_AdsNotice
 <br>(5)string == (31)Empty2
 <br>(6)string == (31)Empty3
 <br>(7)string == (31)Empty4
@@ -11,16 +11,16 @@
 <br>(9)string == (31)Empty6
 <br>(10)string == (31)Empty7
 <br>(11)string == (31)Empty8
-<br>(12)string == (31)AdsL1
-<br>(13)string == (31)AdsL1E
-<br>(14)string == (31)AdsL2
-<br>(15)string == (31)AdsL2E
-<br>(16)string == (31)AdsL3
-<br>(17)string == (31)AdsL3E
-<br>(18)string == (31)AdsL4
-<br>(19)string == (31)AdsL4E
+<br>(12)string == (31)AdsL1::s_AdsL1
+<br>(13)string == (31)AdsL1E::s_AdsL1E
+<br>(14)string == (31)AdsL2::s_AdsL2
+<br>(15)string == (31)AdsL2E::s_AdsL2E
+<br>(16)string == (31)AdsL3::s_AdsL3
+<br>(17)string == (31)AdsL3E::s_AdsL3E
+<br>(18)string == (31)AdsL4::s_AdsL4
+<br>(19)string == (31)AdsL4E::s_AdsL4E
 <br>(20)bool == (31)OnEmpty1
-<br>(21)bool == (31)AdsOpen
+<br>(21)bool == (31)AdsOpen::b_AdsOpen
 <br>(22)bool == (31)OnEmpty2
 <br>(23)bool == (31)OnEmpty3
 <br>(24)bool == (31)OnEmpty4
@@ -29,18 +29,18 @@
 <br>(27)bool == (31)OnEmpty7
 <br>(28)bool == (31)OnEmpty8
 <br>(29)bool == (31)OnEmpty9
-<br>(30)integer == (31)AdsPrize
-<br>(31)integer == (31)AdsS1
-<br>(32)integer == (31)AdsS2
-<br>(33)integer == (31)AdsS3
-<br>(34)integer == (31)AdsS4
+<br>(30)integer == (31)AdsPrize:iS_AdsPrize
+<br>(31)integer == (31)AdsS1::iS_AdsS1
+<br>(32)integer == (31)AdsS2::iS_AdsS2
+<br>(33)integer == (31)AdsS3::iS_AdsS3
+<br>(34)integer == (31)AdsS4::iS_AdsS4
 <br>(35)integer == (31)Empty9
 <br>(36)integer == (31)Empty10
 <br>(37)integer == (31)Empty11
 <br>(38)integer == (31)Empty12
 <br>(39)integer == (31)Empty13
 <br>(40) == (31)Link_0
-<br>(41) == (31)Link_1
+<br>(41) == (31)Link_1::s_URL
 <br>(42) == (31)Link_2
 <br>(43) == (31)Link_3
 <br>(44) == (31)Link_4
@@ -56,24 +56,24 @@
 <br>
 <br><< SFLt - in Storage.cs >>
 <br>
-<br>sign(0) == (31)s_VerNic(v)
+<br>sign(0) == (31)s_VerNic::
 <br>sign(1) == (31)s_Letter
 <br>sign(2) == (31)s_Letter2
 <br>sign(3) == (31)s_Ebmty2
-<br>sign(4) == (31)s_URL(v)
+<br>sign(4) == (31)s_URL::
 <br>sign(5) == (31)s_Ebmty4
-<br>sign(6) == (31)s_AdsNotice(v)
-<br>sign(7) == (31)s_AdsL1(v)
-<br>sign(8) == (31)s_AdsL2(v)
-<br>sign(9) == (31)s_AdsL3(v)
-<br>sign(10) == (31)s_AdsL4(v)
-<br>sign(11) == (31)s_AdsL1E(v)
-<br>sign(12) == (31)s_AdsL2E(v)
-<br>sign(13) == (31)s_AdsL3E(v)
-<br>sign(14) == (31)s_AdsL4E(v)
+<br>sign(6) == (31)s_AdsNotice::
+<br>sign(7) == (31)s_AdsL1::
+<br>sign(8) == (31)s_AdsL2::
+<br>sign(9) == (31)s_AdsL3::
+<br>sign(10) == (31)s_AdsL4::
+<br>sign(11) == (31)s_AdsL1E::
+<br>sign(12) == (31)s_AdsL2E::
+<br>sign(13) == (31)s_AdsL3E::
+<br>sign(14) == (31)s_AdsL4E::
 <br>
 <br>xyz(0) == (31)f_Estimate
-<br>xyz(1) == (31)f_TransEstimate(v)
+<br>xyz(1) == (31)f_TransEstimate::
 <br>xyz(2) == (31)f_empty
 <br>xyz(3) == (31)f_CDA1_Value
 <br>xyz(4) == (31)f_CDA2_Value
@@ -81,7 +81,7 @@
 <br>xyz(6) == (31)f_CDA4_Value
 <br>
 <br>set(0) == (31)iS_Language
-<br>set(1) == (31)iS_Ver
+<br>set(1) == (31)iS_Ver::Ver.Put(Application.version)
 <br>set(2) == (31)iS_BackVer
 <br>set(3) == (31)iS_CDA1_Day
 <br>set(4) == (31)iS_CDA2_Day
@@ -100,14 +100,14 @@
 <br>
 <br>memory(0) == (31)iM_Advertise
 <br>memory(1) == (31)iM_Earn
-<br>memory(2) == (31)iM_Additional(v)
+<br>memory(2) == (31)iM_Additional::
 <br>memory(3) == (31)iM_Total
 <br>memory(4) == (31)iM_Period
 <br>memory(5) == (31)iM_Attend
 <br>memory(6) == (31)iM_SaveYY
 <br>memory(7) == (31)iM_SaveMM
 <br>memory(8) == (31)iM_SaveDD
-<br>memory(9) == (31)iM_CertifyDay(v)
+<br>memory(9) == (31)iM_CertifyDay::
 <br>memory(10) == (31)iM_CDA1_Day
 <br>memory(11) == (31)iM_CDA2_Day
 <br>memory(12) == (31)iM_CDA3_Day
@@ -117,8 +117,8 @@
 <br>onOff(1) == (31)b_HideT
 <br>onOff(2) == (31)b_OnPeriod
 <br>onOff(3) == (31)b_HaveOld
-<br>onOff(4) == (31)b_GetDay(v)
-<br>onOff(5) == (31)b_AdsOpen
-<br>onOff(6) == (31)b_AdsToday(v)
+<br>onOff(4) == (31)b_GetDay::
+<br>onOff(5) == (31)b_AdsOpen::
+<br>onOff(6) == (31)b_AdsToday::
 <br>
 <br>--------------------------------------------------------------------------------
