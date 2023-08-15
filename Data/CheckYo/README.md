@@ -98,7 +98,7 @@
 <br>set(15) == (31)iS_AdsS4::RestructureFile(WebRequest)
 <br>set(16) == (31)iS_AdsPrize::RestructureFile(WebRequest)
 <br>
-<br>memory(0) == (31)iM_Advertise
+<br>memory(0) == (31)iM_Advertise::MakeFile
 <br>memory(1) == (31)iM_Earn::MakeFile
 <br>memory(2) == (31)iM_Additional
 <br>memory(3) == (31)iM_Total
