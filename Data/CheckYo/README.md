@@ -56,31 +56,31 @@
 <br>
 <br><< SFLt - in Storage.cs >>
 <br>
-<br>sign(0) == (31)s_VerNic::
+<br>sign(0) == (31)s_VerNic::MakeFile
 <br>sign(1) == (31)s_Letter
 <br>sign(2) == (31)s_Letter2
 <br>sign(3) == (31)s_Ebmty2
-<br>sign(4) == (31)s_URL::
+<br>sign(4) == (31)s_URL::RestructureFile
 <br>sign(5) == (31)s_Ebmty4
-<br>sign(6) == (31)s_AdsNotice::
-<br>sign(7) == (31)s_AdsL1::
-<br>sign(8) == (31)s_AdsL2::
-<br>sign(9) == (31)s_AdsL3::
-<br>sign(10) == (31)s_AdsL4::
-<br>sign(11) == (31)s_AdsL1E::
-<br>sign(12) == (31)s_AdsL2E::
-<br>sign(13) == (31)s_AdsL3E::
-<br>sign(14) == (31)s_AdsL4E::
+<br>sign(6) == (31)s_AdsNotice::RestructureFile
+<br>sign(7) == (31)s_AdsL1::RestructureFile
+<br>sign(8) == (31)s_AdsL2::RestructureFile
+<br>sign(9) == (31)s_AdsL3::RestructureFile
+<br>sign(10) == (31)s_AdsL4::RestructureFile
+<br>sign(11) == (31)s_AdsL1E::RestructureFile
+<br>sign(12) == (31)s_AdsL2E::RestructureFile
+<br>sign(13) == (31)s_AdsL3E::RestructureFile
+<br>sign(14) == (31)s_AdsL4E::RestructureFile
 <br>
 <br>xyz(0) == (31)f_Estimate
-<br>xyz(1) == (31)f_TransEstimate::
+<br>xyz(1) == (31)f_TransEstimate::MakeFile
 <br>xyz(2) == (31)f_empty
 <br>xyz(3) == (31)f_CDA1_Value
 <br>xyz(4) == (31)f_CDA2_Value
 <br>xyz(5) == (31)f_CDA3_Value
 <br>xyz(6) == (31)f_CDA4_Value
 <br>
-<br>set(0) == (31)iS_Language
+<br>set(0) == (31)iS_Language::MakeFile
 <br>set(1) == (31)iS_Ver::Ver.Put(Application.version)
 <br>set(2) == (31)iS_BackVer
 <br>set(3) == (31)iS_CDA1_Day
@@ -92,15 +92,15 @@
 <br>set(9) == (31)iS_OtherFont
 <br>set(10) == (31)iS_imSet_BackSCDB
 <br>set(11) == (31)iS_imSet_BackLB
-<br>set(12) == (31)iS_AdsS1
-<br>set(13) == (31)iS_AdsS2
-<br>set(14) == (31)iS_AdsS3
-<br>set(15) == (31)iS_AdsS4
-<br>set(16) == (31)iS_AdsPrize
+<br>set(12) == (31)iS_AdsS1::RestructureFile
+<br>set(13) == (31)iS_AdsS2::RestructureFile
+<br>set(14) == (31)iS_AdsS3::RestructureFile
+<br>set(15) == (31)iS_AdsS4::RestructureFile
+<br>set(16) == (31)iS_AdsPrize::RestructureFile
 <br>
 <br>memory(0) == (31)iM_Advertise
-<br>memory(1) == (31)iM_Earn
-<br>memory(2) == (31)iM_Additional::
+<br>memory(1) == (31)iM_Earn::MakeFile
+<br>memory(2) == (31)iM_Additional::MakeFile
 <br>memory(3) == (31)iM_Total
 <br>memory(4) == (31)iM_Period
 <br>memory(5) == (31)iM_Attend
@@ -117,8 +117,8 @@
 <br>onOff(1) == (31)b_HideT
 <br>onOff(2) == (31)b_OnPeriod
 <br>onOff(3) == (31)b_HaveOld
-<br>onOff(4) == (31)b_GetDay::
-<br>onOff(5) == (31)b_AdsOpen::
-<br>onOff(6) == (31)b_AdsToday::
+<br>onOff(4) == (31)b_GetDay::RestructureFile
+<br>onOff(5) == (31)b_AdsOpen::RestructureFile
+<br>onOff(6) == (31)b_AdsToday::RestructureFile
 <br>
 <br>--------------------------------------------------------------------------------
