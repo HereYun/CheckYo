@@ -58,7 +58,7 @@
 <br>
 <br>sign(0) == (31)s_VerNic::OO_MakeFile
 <br>sign(1) == (31)s_Letter
-<br>sign(2) == (31)s_Letter2
+<br>sign(2) == (31)s_Letter2::OM-WriteMainMemo
 <br>sign(3) == (31)s_Ebmty2
 <br>sign(4) == (31)s_URL::OO-RestructureFile(WebRequest)
 <br>sign(5) == (31)s_Ebmty4
@@ -72,53 +72,53 @@
 <br>sign(13) == (31)s_AdsL3E::OO-RestructureFile(WebRequest)
 <br>sign(14) == (31)s_AdsL4E::OO-RestructureFile(WebRequest)
 <br>
-<br>xyz(0) == (31)f_Estimate
-<br>xyz(1) == (31)f_TransEstimate::OO-MakeFile
+<br>xyz(0) == (31)f_Estimate::Sch-SeeBoxViewer
+<br>xyz(1) == (31)f_TransEstimate::OO-MakeFile::OM-MenuOption_SetMeasureEstimate
 <br>xyz(2) == (31)f_empty
-<br>xyz(3) == (31)f_CDA1_Value
-<br>xyz(4) == (31)f_CDA2_Value
-<br>xyz(5) == (31)f_CDA3_Value
-<br>xyz(6) == (31)f_CDA4_Value
+<br>xyz(3) == (31)f_CDA1_Value::OM-MenuOption_UseEasyButtons_Added
+<br>xyz(4) == (31)f_CDA2_Value::OM-MenuOption_UseEasyButtons_Added
+<br>xyz(5) == (31)f_CDA3_Value::OM-MenuOption_UseEasyButtons_Added
+<br>xyz(6) == (31)f_CDA4_Value::OM-MenuOption_UseEasyButtons_Added
 <br>
-<br>set(0) == (31)iS_Language::OO-MakeFile
+<br>set(0) == (31)iS_Language::OO-MakeFile::OM-LanguegeSet
 <br>set(1) == (31)iS_Ver::OO-Ver.Put(Application.version)
 <br>set(2) == (31)iS_BackVer
-<br>set(3) == (31)iS_CDA1_Day
-<br>set(4) == (31)iS_CDA2_Day
-<br>set(5) == (31)iS_CDA3_Day
-<br>set(6) == (31)iS_CDA4_Day
-<br>set(7) == (31)iS_BoxFont
+<br>set(3) == (31)iS_CDA1_Day::OM-ResetEasyMeasureView
+<br>set(4) == (31)iS_CDA2_Day::OM-ResetEasyMeasureView
+<br>set(5) == (31)iS_CDA3_Day::OM-ResetEasyMeasureView
+<br>set(6) == (31)iS_CDA4_Day::OM-ResetEasyMeasureView
+<br>set(7) == (31)iS_BoxFont::Sch-LateRequire::Sch-BoxFontSet
 <br>set(8) == (31)iS_MemoFont
 <br>set(9) == (31)iS_OtherFont
-<br>set(10) == (31)iS_imSet_BackSCDB
-<br>set(11) == (31)iS_imSet_BackLB
+<br>set(10) == (31)iS_imSet_BackSCDB::OM-MenuOption_ResetDesignSet
+<br>set(11) == (31)iS_imSet_BackLB::OM-MenuOption_ResetDesignSet
 <br>set(12) == (31)iS_AdsS1::OO-RestructureFile(WebRequest)
 <br>set(13) == (31)iS_AdsS2::OO-RestructureFile(WebRequest)
 <br>set(14) == (31)iS_AdsS3::OO-RestructureFile(WebRequest)
 <br>set(15) == (31)iS_AdsS4::OO-RestructureFile(WebRequest)
 <br>set(16) == (31)iS_AdsPrize::OO-RestructureFile(WebRequest)
 <br>
-<br>memory(0) == (31)iM_Advertise::OO-MakeFile
-<br>memory(1) == (31)iM_Earn::OO-MakeFile
-<br>memory(2) == (31)iM_Additional
-<br>memory(3) == (31)iM_Total
-<br>memory(4) == (31)iM_Period
-<br>memory(5) == (31)iM_Attend
-<br>memory(6) == (31)iM_SaveYY
-<br>memory(7) == (31)iM_SaveMM
-<br>memory(8) == (31)iM_SaveDD
+<br>memory(0) == (31)iM_Advertise::OO-MakeFile::OM-Advertise_Add
+<br>memory(1) == (31)iM_Earn::OO-MakeFile::OM-MenuOption_ChangeEarn
+<br>memory(2) == (31)iM_Additional::Sch-SeeBoxViewer
+<br>memory(3) == (31)iM_Total::Sch-SeeBoxViewer
+<br>memory(4) == (31)iM_Period::OM-MenuOption_SetPayrollDeadline
+<br>memory(5) == (31)iM_Attend::Sch-SeeBoxViewer
+<br>memory(6) == (31)iM_SaveYY::OM-Save
+<br>memory(7) == (31)iM_SaveMM::OM-Save
+<br>memory(8) == (31)iM_SaveDD::OM-Save
 <br>memory(9) == (31)iM_CertifyDay::OO-RestructureFile
-<br>memory(10) == (31)iM_CDA1_Day
-<br>memory(11) == (31)iM_CDA2_Day
-<br>memory(12) == (31)iM_CDA3_Day
-<br>memory(13) == (31)iM_CDA4_Day
+<br>memory(10) == (31)iM_CDA1_Day::OM-MenuOption_UseEasyButtons_Added
+<br>memory(11) == (31)iM_CDA2_Day::OM-MenuOption_UseEasyButtons_Added
+<br>memory(12) == (31)iM_CDA3_Day::OM-MenuOption_UseEasyButtons_Added
+<br>memory(13) == (31)iM_CDA4_Day::OM-MenuOption_UseEasyButtons_Added
 <br>
-<br>onOff(0) == (31)b_HideE
-<br>onOff(1) == (31)b_HideT
-<br>onOff(2) == (31)b_OnPeriod
+<br>onOff(0) == (31)b_HideE::Sch-WriteWage
+<br>onOff(1) == (31)b_HideT::Sch-WriteTotal
+<br>onOff(2) == (31)b_OnPeriod::OM-MenuOption_SetPayrollDeadline
 <br>onOff(3) == (31)b_HaveOld
-<br>onOff(4) == (31)b_GetDay::OO-RestructureFile(ReCertifyToday)
+<br>onOff(4) == (31)b_GetDay::OO-RestructureFile(ReCertifyToday)::OM-CertifyTodaySet
 <br>onOff(5) == (31)b_AdsOpen::OO-RestructureFile(WebRequest)
-<br>onOff(6) == (31)b_AdsToday::OO-RestructureFile(ReCertifyToday)
+<br>onOff(6) == (31)b_AdsToday::OO-RestructureFile(ReCertifyToday)::OM-PutButtons(33)
 <br>
 <br>--------------------------------------------------------------------------------
