@@ -49,7 +49,7 @@
 <br>(47) == (31)Link_7
 <br>(48) == (31)Link_8
 <br>(49) == (31)Link_9
-<br>(50) == (32)AutoAP == (31)ListLimit
+<br>(50) == (32)AutoAP == (31)(ListLimit)
 <br>(51)byte == (32)ByteEmpty_1
 <br>(52)byte == (32)ByteEmpty_2
 <br>(53)byte == (32)ByteEmpty_3
@@ -59,7 +59,7 @@
 <br>(57)byte == (32)ByteEmpty_7
 <br>(58)byte == (32)ByteEmpty_8
 <br>(59)byte == (32)ByteEmpty_9
-<br>(60) == (32)ListLimit
+<br>(60) == (32)(ListLimit)
 <br>(61) == 
 <br>
 <br>--------------------------------------------------------------------------------
