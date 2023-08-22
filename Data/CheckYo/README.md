@@ -131,6 +131,6 @@
 <br>onOff(4) == (31)b_GetDay::OO-RestructureFile(ReCertifyToday)::OM-CertifyTodaySet
 <br>onOff(5) == (31)b_AdsOpen::OO-RestructureFile(WebRequest)
 <br>onOff(6) == (31)b_AdsToday::OO-RestructureFile(ReCertifyToday)::OM-PutButtons(33)
-<br>onOff(7) == (32)b_AdsTest::OO-RestructureFile(ReCertifyToday)
+<br>onOff(7) == (32)b_AdsTest::OO-RestructureFile(WebRequest)
 <br>
 <br>--------------------------------------------------------------------------------
