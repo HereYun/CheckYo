@@ -19,7 +19,7 @@
 <br>(17)string == (31)AdsL3E::s_AdsL3E
 <br>(18)string == (31)AdsL4::s_AdsL4
 <br>(19)string == (31)AdsL4E::s_AdsL4E
-<br>(20)bool == (31)OnEmpty1
+<br>(20)bool == (32)UseURL::b_AdsTest(31)OnEmpty1
 <br>(21)bool == (31)AdsOpen::b_AdsOpen
 <br>(22)bool == (31)OnEmpty2
 <br>(23)bool == (31)OnEmpty3
