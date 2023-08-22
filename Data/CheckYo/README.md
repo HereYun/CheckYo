@@ -40,17 +40,17 @@
 <br>(38)integer == (31)Empty12
 <br>(39)integer == (31)Empty13
 <br>(40) == (32)Link_0::s_URL(31)Link_0
-<br>(41) == (32)Link_1(31)Link_1::s_URL
-<br>(42) == (31)Link_2
-<br>(43) == (31)Link_3
-<br>(44) == (31)Link_4
-<br>(45) == (31)Link_5
-<br>(46) == (31)Link_6
-<br>(47) == (31)Link_7
-<br>(48) == (31)Link_8
-<br>(49) == (31)Link_9
+<br>(41) == (32)Link_1::s_URL(31)Link_1::s_URL
+<br>(42) == (32)Link_2::s_URL(31)Link_2
+<br>(43) == (32)Link_3::s_URL(31)Link_3
+<br>(44) == (32)Link_4::s_URL(31)Link_4
+<br>(45) == (32)Link_5::s_URL(31)Link_5
+<br>(46) == (32)Link_6::s_URL(31)Link_6
+<br>(47) == (32)Link_7::s_URL(31)Link_7
+<br>(48) == (32)Link_8::s_URL(31)Link_8
+<br>(49) == (32)Link_9::s_URL(31)Link_9
 <br>(50)byte == (32)AutoAP == (31)(ListLimit)
-<br>(51)byte == (32)UseURL
+<br>(51)byte == (32)UseURL::s_URL
 <br>(52)byte == (32)ByteEmpty_2
 <br>(53)byte == (32)ByteEmpty_3
 <br>(54)byte == (32)ByteEmpty_4
