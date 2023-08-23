@@ -134,3 +134,13 @@
 <br>onOff(7) == (32)b_AdsTest::OO-RestructureFile(WebRequest)
 <br>
 <br>--------------------------------------------------------------------------------
+<br>
+<br><< DataBase.cs >>
+<br>
+<br>  5 => amo.RandomAdmob_RF_FV(),
+<br>  4 => amo.RandomAdmob_R_RF(),
+<br>  3 => amo.FullViewShow(),
+<br>  2 => amo.RewaFVShow(),
+<br>  1 => amo.RewardShow(),
+<br>  _ => false,
+<br>--------------------------------------------------------------------------------
