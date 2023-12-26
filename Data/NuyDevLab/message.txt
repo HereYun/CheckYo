@@ -1,6 +1,6 @@
 
 `NuyDevelopLaboratory
-`1.0.17
+`1.0.16
 `
 `필수 업데이트가 있습니다 (There is a mandatory update).
 `
