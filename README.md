@@ -1,4 +1,4 @@
 # Nuy
 Storage of Nuy
 
-https://thenuy.github.io/ko/App/
+https://thenuy.github.io/ko/app/
