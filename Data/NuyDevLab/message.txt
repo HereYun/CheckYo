@@ -20,7 +20,7 @@
 `광고 정지 기념 자체 광고
 `Self of  suffer private Ads
 `true
-`false
+`true
 `true
 `
 `
