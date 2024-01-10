@@ -4,8 +4,8 @@
 <br>
 <br>
 <br><< NuyCheck >>
-<br>https://thenuy.github.io/ko/app/
-<br>https://thenuy.github.io/ko/app/
+<br>https://thenuy.github.io/ko/app/checkyo/
+<br>https://thenuy.github.io/ko/app/checkyo/
 <br>
 <br>
 <br><< NuyDevLab >>
