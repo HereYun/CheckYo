@@ -9,5 +9,5 @@
 <br>
 <br>
 <br><< NuyDevLab >>
-<br>https://thenuy.github.io/ko/app/
-<br>https://thenuy.github.io/ko/app/
+<br>https://thenuy.github.io/ko/app/nuydevlab/
+<br>https://thenuy.github.io/ko/app/nuydevlab/
