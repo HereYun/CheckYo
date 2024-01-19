@@ -19,7 +19,7 @@
 `Ads of 5 seconds
 `광고 정지 기념 자체 광고
 `Self of  suffer private Ads
-`false
+`true
 `true
 `true
 `
@@ -30,9 +30,9 @@
 `
 `
 `10
-`2
-`1
-`3
+`0
+`0
+`0
 `0
 `
 `
