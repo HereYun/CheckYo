@@ -18,7 +18,7 @@
 `5초 광고 보기
 `Ads of 5 seconds
 `광고 정지 기념 자체 광고
-`Self of suffer private Ads
+`Self ads because can't ads for
 `false
 `false
 `
