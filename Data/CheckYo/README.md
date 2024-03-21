@@ -136,11 +136,18 @@
 <br>--------------------------------------------------------------------------------
 <br>
 <br><< DataBase.cs >>
-<br>
+<br> == ver 1.0.32
 <br>  5 => amo.RewardShow(),
 <br>  4 => amo.RandomAdmob_R_RF(),
 <br>  3 => amo.FullViewShow(),
 <br>  2 => amo.RewaFVShow(),
+<br>  1 => amo.RandomAdmob_RF_FV(),
+<br>  _ => false,
+<br> == ver 1.0.33
+<br>  5 => amo.RewardShow(),
+<br>  4 => amo.RewaFVShow(),
+<br>  3 => amo.FullViewShow(),
+<br>  2 => amo.RandomAdmob_R_RF(),
 <br>  1 => amo.RandomAdmob_RF_FV(),
 <br>  _ => false,
 <br>--------------------------------------------------------------------------------
