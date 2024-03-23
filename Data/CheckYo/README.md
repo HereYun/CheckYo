@@ -131,13 +131,13 @@
 <br>onOff(4) == (31)b_GetDay::OO-RestructureFile(ReCertifyToday)::OM-CertifyTodaySet
 <br>onOff(5) == (33)b_questToday::OO(31)b_AdsOpen::OO-RestructureFile(WebRequest)
 <br>onOff(6) == (31)b_AdsToday::OO-RestructureFile(ReCertifyToday)::OM-PutButtons(33)
-<br>onOff(7) == (32)b_AdsTest::OO-RestructureFile(WebRequest)
-<br>onOff(8) == (33)
-<br>onOff(9) == (33)
-<br>onOff(10) == (33)
-<br>onOff(11) == (33)
-<br>onOff(12) == (33)
-<br>onOff(13) == (33)
+<br>onOff(7) == (33)b_TestApp::OO(32)b_AdsTest::OO-RestructureFile(WebRequest)
+<br>onOff(8) == (33)b_adsTestID:OO
+<br>onOff(9) == (33)b_adsBanner:OO
+<br>onOff(10) == (33)b_adsSlot_1:OO
+<br>onOff(11) == (33)b_adsSlot_2:OO
+<br>onOff(12) == (33)b_adsSlot_3:OO
+<br>onOff(13) == (33)b_adsSlot_4:OO
 <br>
 <br>--------------------------------------------------------------------------------
 <br>
