@@ -1,9 +1,9 @@
 
 `CheckYo
 `1.0.32
-`
 `필수 업데이트가 있습니다.
 (There is a mandatory update).
+`
 `
 `
 `
