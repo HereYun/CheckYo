@@ -68,11 +68,11 @@
 <br>
 <br>sign(0) == (31)s_VerNic::OO_MakeFile
 <br>sign(1) == (31)s_Letter
-<br>sign(2) == (31)s_Letter2::OM-WriteMainMemo
-<br>sign(3) == (31)s_Ebmty2
-<br>sign(4) == (31)s_URL::OO-RestructureFile(WebRequest)
-<br>sign(5) == (31)s_Ebmty4
-<br>sign(6) == (31)s_AdsNotice::OO-RestructureFile(WebRequest)
+<br>sign(2) == (33)s_Notice::OO(31)s_Letter2::OM-WriteMainMemo
+<br>sign(3) == (33)s_URL_1::OO(31)s_Ebmty2
+<br>sign(4) == (33)s_URL_2::OO(31)s_URL::OO-RestructureFile(WebRequest)
+<br>sign(5) == (33)s_URL_3::OO(31)s_Ebmty4
+<br>sign(6) == (33)s_URL_4::OO(31)s_AdsNotice::OO-RestructureFile(WebRequest)
 <br>sign(7) == (31)s_AdsL1::OO-RestructureFile(WebRequest)
 <br>sign(8) == (31)s_AdsL2::OO-RestructureFile(WebRequest)
 <br>sign(9) == (31)s_AdsL3::OO-RestructureFile(WebRequest)
