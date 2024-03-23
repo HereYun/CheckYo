@@ -19,13 +19,13 @@
 <br>(17)string == (31)AdsL3E::s_AdsL3E
 <br>(18)string == (31)AdsL4::s_AdsL4
 <br>(19)string == (31)AdsL4E::s_AdsL4E
-<br>(20)bool == (33)Nv.TestApp=OP(32)UseURL::b_AdsTest(31)OnEmpty1
-<br>(21)bool == (33)m_List=adsRialID(31)AdsOpen::b_AdsOpen
-<br>(22)bool == (33)m_List=adsBanner(31)OnEmpty2
-<br>(23)bool == (33)m_List=adsSolt_1(31)OnEmpty3
-<br>(24)bool == (33)m_List=adsSolt_2(31)OnEmpty4
-<br>(25)bool == (33)m_List=adsSolt_3(31)OnEmpty5
-<br>(26)bool == (31)OnEmpty6
+<br>(20)bool == (33)b_TestApp::Nv.TestApp=OO(32)UseURL::b_AdsTest(31)OnEmpty1
+<br>(21)bool == (33)b_adsTestID::m_List=adsRialID=OO(31)AdsOpen::b_AdsOpen
+<br>(22)bool == (33)b_adsBanner::m_List=adsBanner=OO(31)OnEmpty2
+<br>(23)bool == (33)b_adsSlot_1::m_List=adsSolt_1=OO(31)OnEmpty3
+<br>(24)bool == (33)b_adsSlot_2::m_List=adsSolt_2=OO(31)OnEmpty4
+<br>(25)bool == (33)b_adsSlot_3::m_List=adsSolt_3=OO(31)OnEmpty5
+<br>(26)bool == (33)b_adsSlot_4::m_List=adsSolt_4=OO(31)OnEmpty6
 <br>(27)bool == (31)OnEmpty7
 <br>(28)bool == (31)OnEmpty8
 <br>(29)bool == (31)OnEmpty9
@@ -129,9 +129,15 @@
 <br>onOff(2) == (31)b_OnPeriod::OM-MenuOption_SetPayrollDeadline
 <br>onOff(3) == (31)b_HaveOld
 <br>onOff(4) == (31)b_GetDay::OO-RestructureFile(ReCertifyToday)::OM-CertifyTodaySet
-<br>onOff(5) == (31)b_AdsOpen::OO-RestructureFile(WebRequest)
+<br>onOff(5) == (33)b_questToday::OO(31)b_AdsOpen::OO-RestructureFile(WebRequest)
 <br>onOff(6) == (31)b_AdsToday::OO-RestructureFile(ReCertifyToday)::OM-PutButtons(33)
 <br>onOff(7) == (32)b_AdsTest::OO-RestructureFile(WebRequest)
+<br>onOff(8) == (33)
+<br>onOff(9) == (33)
+<br>onOff(10) == (33)
+<br>onOff(11) == (33)
+<br>onOff(12) == (33)
+<br>onOff(13) == (33)
 <br>
 <br>--------------------------------------------------------------------------------
 <br>
