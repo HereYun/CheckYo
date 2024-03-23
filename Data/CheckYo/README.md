@@ -2,7 +2,7 @@
 <br>(0)string == (31)AppNull
 <br>(1)string == (31)AppName
 <br>(2)string == (31)AppVersion
-<br>(3)string == (31)AppNotice
+<br>(3)string == (33)AppNotice::s_Notice(31)AppNotice
 <br>(4)string == (31)AppLetter::s_AdsNotice
 <br>(5)string == (31)Empty2
 <br>(6)string == (31)Empty3
