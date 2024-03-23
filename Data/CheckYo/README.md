@@ -108,7 +108,7 @@
 <br>set(15) == (31)iS_AdsS4::OO-RestructureFile(WebRequest)
 <br>set(16) == (31)iS_AdsPrize::OO-RestructureFile(WebRequest)
 <br>set(17) == (32)iS_AutoAP::
-<br>set(18) == (32)iS_UseUrl::
+<br>set(18) == (32)iS_UseURL::
 <br>
 <br>memory(0) == (31)iM_Advertise::OO-MakeFile::OM-Advertise_Add
 <br>memory(1) == (31)iM_Earn::OO-MakeFile::OM-MenuOption_ChangeEarn
