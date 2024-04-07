@@ -29,12 +29,12 @@
 <br>(27)bool == (31)OnEmpty7
 <br>(28)bool == (31)OnEmpty8
 <br>(29)bool == (31)OnEmpty9
-<br>(30)integer == (31)AdsPrize::iS_AdsPrize
+<br>(30)integer == (33)AdsLayoutColor(31)AdsPrize::iS_AdsPrize
 <br>(31)integer == (33)AdsVerify_1(31)AdsS1::iS_AdsS1
 <br>(32)integer == (33)AdsVerify_2(31)AdsS2::iS_AdsS2
 <br>(33)integer == (33)AdsVerify_3(31)AdsS3::iS_AdsS3
 <br>(34)integer == (33)AdsVerify_4(31)AdsS4::iS_AdsS4
-<br>(35)integer == (31)Empty9
+<br>(35)integer == (33)AdsPrize(31)Empty9
 <br>(36)integer == (31)Empty10
 <br>(37)integer == (31)Empty11
 <br>(38)integer == (31)Empty12
