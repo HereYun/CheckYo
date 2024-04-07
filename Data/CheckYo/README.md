@@ -100,7 +100,7 @@
 <br>
 <br>set(0) == (31)iS_Language::OO-MakeFile::OM-LanguegeSet
 <br>set(1) == (31)iS_Ver::OO-Ver.Put(Application.version)
-<br>set(2) == (31)iS_BackVer
+<br>set(2) == (33)iS_AdsLayoutColor(31)iS_BackVer
 <br>set(3) == (31)iS_CDA1_Day::OM-ResetEasyMeasureView
 <br>set(4) == (31)iS_CDA2_Day::OM-ResetEasyMeasureView
 <br>set(5) == (31)iS_CDA3_Day::OM-ResetEasyMeasureView
