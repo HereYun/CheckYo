@@ -35,7 +35,7 @@
 <br>(33)integer == (33)AdsVerify_3(31)AdsS3::iS_AdsS3
 <br>(34)integer == (33)AdsVerify_4(31)AdsS4::iS_AdsS4
 <br>(35)integer == (33)AdsPrize(31)Empty9
-<br>(36)integer == (31)Empty10
+<br>(36)integer == (33)AdsBlocScale(31)Empty10
 <br>(37)integer == (31)Empty11
 <br>(38)integer == (31)Empty12
 <br>(39)integer == (31)Empty13
@@ -90,9 +90,9 @@
 <br>sign(21) == (33)s_webImage_3E::OO
 <br>sign(22) == (33)s_webImage_4E::OO
 <br>
-<br>xyz(0) == (31)f_Estimate::Sch-SeeBoxViewer
+<br>xyz(0) == (33)f_AdsBlocScale(31)f_Estimate::Sch-SeeBoxViewer
 <br>xyz(1) == (31)f_TransEstimate::OO-MakeFile::OM-MenuOption_SetMeasureEstimate
-<br>xyz(2) == (31)f_empty
+<br>xyz(2) == (33)f_Estimate(31)f_empty
 <br>xyz(3) == (31)f_CDA1_Value::OM-MenuOption_UseEasyButtons_Added
 <br>xyz(4) == (31)f_CDA2_Value::OM-MenuOption_UseEasyButtons_Added
 <br>xyz(5) == (31)f_CDA3_Value::OM-MenuOption_UseEasyButtons_Added
