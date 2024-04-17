@@ -128,10 +128,10 @@
 <br>memory(7) == (31)iM_SaveMM::OM-Save
 <br>memory(8) == (31)iM_SaveDD::OM-Save
 <br>memory(9) == (31)iM_CertifyDay::OO-RestructureFile
-<br>memory(10) == (31)iM_CDA1_Day::OM-MenuOption_UseEasyButtons_Added
-<br>memory(11) == (31)iM_CDA2_Day::OM-MenuOption_UseEasyButtons_Added
-<br>memory(12) == (31)iM_CDA3_Day::OM-MenuOption_UseEasyButtons_Added
-<br>memory(13) == (31)iM_CDA4_Day::OM-MenuOption_UseEasyButtons_Added
+<br>memory(10) == (33)iM_UseEasyBt1_Day(31)iM_CDA1_Day::OM-MenuOption_UseEasyButtons_Added
+<br>memory(11) == (33)iM_UseEasyBt2_Day(31)iM_CDA2_Day::OM-MenuOption_UseEasyButtons_Added
+<br>memory(12) == (33)iM_UseEasyBt3_Day(31)iM_CDA3_Day::OM-MenuOption_UseEasyButtons_Added
+<br>memory(13) == (33)iM_UseEasyBt4_Day(31)iM_CDA4_Day::OM-MenuOption_UseEasyButtons_Added
 <br>
 <br>onOff(0) == (31)b_HideE::Sch-WriteWage
 <br>onOff(1) == (31)b_HideT::Sch-WriteTotal
