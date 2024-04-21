@@ -19,13 +19,13 @@
 <br>(17)string == (33)AdsLetter_3E(31)AdsL3E::s_AdsL3E
 <br>(18)string == (33)AdsLetter_4(31)AdsL4::s_AdsL4
 <br>(19)string == (33)AdsLetter_4E(31)AdsL4E::s_AdsL4E
-<br>(20)bool == (33)b_TestApp::m_List=TestApp(32)UseURL::b_AdsTest(31)OnEmpty1
-<br>(21)bool == (33)b_adsTestID::m_List=adsRialID(31)AdsOpen::b_AdsOpen
-<br>(22)bool == (33)b_adsBanner::m_List=adsBanner(31)OnEmpty2
-<br>(23)bool == (33)b_adsSlot_1::m_List=adsSolt_1(31)OnEmpty3
-<br>(24)bool == (33)b_adsSlot_2::m_List=adsSolt_2(31)OnEmpty4
-<br>(25)bool == (33)b_adsSlot_3::m_List=adsSolt_3(31)OnEmpty5
-<br>(26)bool == (33)b_adsSlot_4::m_List=adsSolt_4(31)OnEmpty6
+<br>(20)bool == (33)TestApp(32)UseURL::b_AdsTest(31)OnEmpty1
+<br>(21)bool == (33)adsRialID(31)AdsOpen::b_AdsOpen
+<br>(22)bool == (33)adsBanner(31)OnEmpty2
+<br>(23)bool == (33)OnMyAds_Slot1(31)OnEmpty3
+<br>(24)bool == (33)OnMyAds_Slot2(31)OnEmpty4
+<br>(25)bool == (33)OnMyAds_Slot3(31)OnEmpty5
+<br>(26)bool == (33)OnMyAds_Slot4(31)OnEmpty6
 <br>(27)bool == (31)OnEmpty7
 <br>(28)bool == (31)OnEmpty8
 <br>(29)bool == (31)OnEmpty9
@@ -143,10 +143,10 @@
 <br>onOff(7) == (33)b_TestApp::OO(32)b_AdsTest::OO-RestructureFile(WebRequest)
 <br>onOff(8) == (33)b_adsTestID::OO
 <br>onOff(9) == (33)b_adsBanner::OO
-<br>onOff(10) == (33)b_adsSlot_1::OO
-<br>onOff(11) == (33)b_adsSlot_2::OO
-<br>onOff(12) == (33)b_adsSlot_3::OO
-<br>onOff(13) == (33)b_adsSlot_4::OO
+<br>onOff(10) == (33)b_OnMyAds_Slot1::OO
+<br>onOff(11) == (33)b_OnMyAds_Slot2::OO
+<br>onOff(12) == (33)b_OnMyAds_Slot3::OO
+<br>onOff(13) == (33)b_OnMyAds_Slot4::OO
 <br>
 <br>--------------------------------------------------------------------------------
 <br>
