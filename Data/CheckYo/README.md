@@ -137,8 +137,8 @@
 <br>
 <br>onOff(0) == (31)b_HideE::Sch-WriteWage
 <br>onOff(1) == (31)b_HideT::Sch-WriteTotal
-<br>onOff(2) == (31)b_OnPeriod::OM-MenuOption_SetPayrollDeadline
-<br>onOff(3) == (31)b_HaveOld
+<br>onOff(2) == (33)b_HideA(31)b_OnPeriod::OM-MenuOption_SetPayrollDeadline
+<br>onOff(3) == (33)b_OnPeriod(31)b_HaveOld
 <br>onOff(4) == (31)b_GetDay::OO-RestructureFile(ReCertifyToday)::OM-CertifyTodaySet
 <br>onOff(5) == (33)b_questToday::OO(31)b_AdsOpen::OO-RestructureFile(WebRequest)
 <br>onOff(6) == (31)b_AdsToday::OO-RestructureFile(ReCertifyToday)::OM-PutButtons(33)
