@@ -114,9 +114,11 @@
 <br>set(13) == (31)iS_AdsS2::OO-RestructureFile(WebRequest)
 <br>set(14) == (31)iS_AdsS3::OO-RestructureFile(WebRequest)
 <br>set(15) == (31)iS_AdsS4::OO-RestructureFile(WebRequest)
-<br>set(16) == (31)iS_AdsPrize::OO-RestructureFile(WebRequest)
-<br>set(17) == (32)iS_AutoAP::
-<br>set(18) == (32)iS_UseURL::
+<br>set(16) == (33)iS_AdsPrize_1(31)iS_AdsPrize::OO-RestructureFile(WebRequest)
+<br>set(17) == (33)iS_AdsPrize_2(32)iS_AutoAP::
+<br>set(18) == (33)iS_AdsPrize_3(32)iS_UseURL::
+<br>set(19) == (33)iS_AdsPrize_4
+<br>set(20) == (33)iS_AutoAP
 <br>
 <br>memory(0) == (31)iM_Advertise::OO-MakeFile::OM-Advertise_Add
 <br>memory(1) == (31)iM_Earn::OO-MakeFile::OM-MenuOption_ChangeEarn
