@@ -2,8 +2,6 @@
 Storage of Nuy
 <br>https://thenuy.github.io/ko/app/
 <br>
-<br>https://uegnuy.github.io/ko/
-<br>
 <br>
 <br><< NuyCheck >>
 <br>https://thenuy.github.io/ko/app/checkyo/
