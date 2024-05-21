@@ -93,10 +93,10 @@
 <br>xyz(0) == (33)f_AdsBlocScale(31)f_Estimate::Sch-SeeBoxViewer
 <br>xyz(1) == (31)f_TransEstimate::OO-MakeFile::OM-MenuOption_SetMeasureEstimate
 <br>xyz(2) == (33)f_Estimate(31)f_empty
-<br>xyz(3) == (33)f_UseEasyBt1_Value(31)f_CDA1_Value::OM-MenuOption_UseEasyButtons_Added
-<br>xyz(4) == (33)f_UseEasyBt2_Value(31)f_CDA2_Value::OM-MenuOption_UseEasyButtons_Added
-<br>xyz(5) == (33)f_UseEasyBt3_Value(31)f_CDA3_Value::OM-MenuOption_UseEasyButtons_Added
-<br>xyz(6) == (33)f_UseEasyBt4_Value(31)f_CDA4_Value::OM-MenuOption_UseEasyButtons_Added
+<br>xyz(3) == (33)f_EnterEasyBt1_Value(31)f_CDA1_Value::OM-MenuOption_UseEasyButtons_Added
+<br>xyz(4) == (33)f_EnterEasyBt2_Value(31)f_CDA2_Value::OM-MenuOption_UseEasyButtons_Added
+<br>xyz(5) == (33)f_EnterEasyBt3_Value(31)f_CDA3_Value::OM-MenuOption_UseEasyButtons_Added
+<br>xyz(6) == (33)f_EnterEasyBt4_Value(31)f_CDA4_Value::OM-MenuOption_UseEasyButtons_Added
 <br>
 <br>set(0) == (31)iS_Language::OO-MakeFile::OM-LanguegeSet
 <br>set(1) == (31)iS_Ver::OO-Ver.Put(Application.version)
@@ -130,10 +130,10 @@
 <br>memory(7) == (31)iM_SaveMM::OM-Save
 <br>memory(8) == (31)iM_SaveDD::OM-Save
 <br>memory(9) == (31)iM_CertifyDay::OO-RestructureFile
-<br>memory(10) == (33)iM_UseEasyBt1_Day(31)iM_CDA1_Day::OM-MenuOption_UseEasyButtons_Added
-<br>memory(11) == (33)iM_UseEasyBt2_Day(31)iM_CDA2_Day::OM-MenuOption_UseEasyButtons_Added
-<br>memory(12) == (33)iM_UseEasyBt3_Day(31)iM_CDA3_Day::OM-MenuOption_UseEasyButtons_Added
-<br>memory(13) == (33)iM_UseEasyBt4_Day(31)iM_CDA4_Day::OM-MenuOption_UseEasyButtons_Added
+<br>memory(10) == (33)iM_EnterEasyBt1_Day(31)iM_CDA1_Day::OM-MenuOption_UseEasyButtons_Added
+<br>memory(11) == (33)iM_EnterEasyBt2_Day(31)iM_CDA2_Day::OM-MenuOption_UseEasyButtons_Added
+<br>memory(12) == (33)iM_EnterEasyBt3_Day(31)iM_CDA3_Day::OM-MenuOption_UseEasyButtons_Added
+<br>memory(13) == (33)iM_EnterEasyBt4_Day(31)iM_CDA4_Day::OM-MenuOption_UseEasyButtons_Added
 <br>
 <br>onOff(0) == (31)b_HideE::Sch-WriteWage
 <br>onOff(1) == (31)b_HideT::Sch-WriteTotal
