@@ -5,7 +5,8 @@
 <br><< construction >>
 <br>https://thenuy.github.io/ko/link/construction/
 <br>
-<br><< second-life-storage >>
+<br><< cell-datasheet >>
+<br>https://www.alldatasheet.co.kr/bottom_bar/about_alldatasheet.jsp
 <br>https://secondlifestorage.com/index.php?pages/cell-database/
 <br>
 <br>삼성건설 App Store
