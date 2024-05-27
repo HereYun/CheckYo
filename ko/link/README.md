@@ -6,7 +6,7 @@
 <br>https://thenuy.github.io/ko/link/construction/
 <br>
 <br><< excavating-machine >>
-<br>https://thenuy.github.io/ko/link/construction/
+<br>https://thenuy.github.io/ko/link/excavating-machine/
 <br>
 <br><< cell-datasheet >>
 <br>https://www.alldatasheet.net/ (https://www.alldatasheet.co.kr/)
