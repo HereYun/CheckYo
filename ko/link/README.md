@@ -1,6 +1,6 @@
 # Nuy Links
 <br><< real-estate >>
-<br>https://thenuy..github.io/ko/link/real-estate/
+<br>https://thenuy.github.io/ko/link/real-estate/
 <br>
 <br><< construction >>
 <br>https://thenuy.github.io/ko/link/construction/
