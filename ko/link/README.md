@@ -12,6 +12,9 @@
 <br>https://www.alldatasheet.net/ (https://www.alldatasheet.co.kr/)
 <br>https://secondlifestorage.com/index.php?pages/cell-database/
 <br>
+<br><< user e-mail google nuy >>
+<br>https://uegnuy.github.io/ko/
+<br>
 <br>무설치 HWP 뷰어
 <br>https://allinpdf.com/kr/hwp-viewer
 <br>
