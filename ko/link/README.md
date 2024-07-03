@@ -6,7 +6,7 @@
 <br>https://thenuy.github.io/ko/link/construction/samsung/
 <br>
 <br>[ vocational-counselor ]
-<br>https://thenuy.github.io/ko/link/vocational-counselor/
+<br>https://thenuy.github.io/ko/link/document/certificate/vocational-counselor/
 <br>
 <br>[ excavating-machine ]
 <br>https://thenuy.github.io/ko/link/document/certificate/excavating-machine/
