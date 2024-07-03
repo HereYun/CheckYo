@@ -3,9 +3,6 @@
 <br>https://thenuy.github.io/ko/link/life/real-estate/
 <br>
 <br><< construction >>
-<br>https://thenuy.github.io/ko/link/construction/
-<br>
-<br><< construction >>
 <br>https://thenuy.github.io/ko/link/construction/samsung/
 <br>
 <br><< vocational-counselor >>
