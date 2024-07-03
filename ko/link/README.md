@@ -1,5 +1,5 @@
 # Nuy Links
-<br>[ construction ]
+<br>[ construction/samsung ]
 <br>https://thenuy.github.io/ko/link/construction/samsung/
 <br>
 <br>[ document/certificate/vocational-counselor ]
