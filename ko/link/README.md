@@ -9,7 +9,7 @@
 <br>https://thenuy.github.io/ko/link/vocational-counselor/
 <br>
 <br>[ excavating-machine ]
-<br>https://thenuy.github.io/ko/link/excavating-machine/
+<br>https://thenuy.github.io/ko/link/document/certificate/excavating-machine/
 <br>
 <br>[ chattel ]
 <br>https://thenuy.github.io/ko/link/life/chattel/
