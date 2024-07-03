@@ -6,7 +6,7 @@
 <br>https://thenuy.github.io/ko/link/construction/
 <br>
 <br><< construction >>
-<br>https://thenuy.github.io/ko/link/samsung/construction/
+<br>https://thenuy.github.io/ko/link/construction/samsung/
 <br>
 <br><< vocational-counselor >>
 <br>https://thenuy.github.io/ko/link/vocational-counselor/
