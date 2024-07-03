@@ -22,7 +22,7 @@
 <br>https://allinpdf.com/kr/hwp-viewer
 <br>
 <br><< chattel >>
-<br>https://thenuy.github.io/ko/link/chattel/
+<br>https://thenuy.github.io/ko/link/life/chattel/
 <br>
 <br>삼성건설 App Store
 <br>https://www.spmportal.com/mas/download/appstore.html
