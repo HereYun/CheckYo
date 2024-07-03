@@ -1,17 +1,17 @@
 # Nuy Links
-<br>[ real-estate ]
-<br>https://thenuy.github.io/ko/link/life/real-estate/
-<br>
 <br>[ construction ]
 <br>https://thenuy.github.io/ko/link/construction/samsung/
 <br>
-<br>[ vocational-counselor ]
+<br>[ document/certificate/vocational-counselor ]
 <br>https://thenuy.github.io/ko/link/document/certificate/vocational-counselor/
 <br>
-<br>[ excavating-machine ]
+<br>[ document/certificate/excavating-machine ]
 <br>https://thenuy.github.io/ko/link/document/certificate/excavating-machine/
 <br>
-<br>[ chattel ]
+<br>[ life/real-estate ]
+<br>https://thenuy.github.io/ko/link/life/real-estate/
+<br>
+<br>[ life/chattel ]
 <br>https://thenuy.github.io/ko/link/life/chattel/
 <br>
 <br>[[ 무설치 HWP 뷰어 ]]
@@ -21,5 +21,5 @@
 <br>https://www.alldatasheet.net/ (https://www.alldatasheet.co.kr/)
 <br>https://secondlifestorage.com/index.php?pages/cell-database/
 <br>
-<br>[[ user Email google nuy ]]
+<br>[[ User Email Google Nuy ]]
 <br>https://uegnuy.github.io/ko/
