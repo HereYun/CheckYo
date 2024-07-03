@@ -5,6 +5,9 @@
 <br><< construction >>
 <br>https://thenuy.github.io/ko/link/construction/
 <br>
+<br><< vocational-counselor >>
+<br>https://thenuy.github.io/ko/link/vocational-counselor/
+<br>
 <br><< excavating-machine >>
 <br>https://thenuy.github.io/ko/link/excavating-machine/
 <br>
