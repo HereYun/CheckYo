@@ -2,10 +2,6 @@
 <br>[ document/certificate/vocational-counselor ]
 <br>https://thenuy.github.io/ko/link/document/certificate/vocational-counselor/
 <br>
-<br>https://thenuy.github.io/ko/link/document/certificate/vocational-counselor/history/
-<br>
-<br>https://thenuy.github.io/ko/link/document/certificate/vocational-counselor/theory/
-<br>
-<br>https://thenuy.github.io/ko/link/document/certificate/vocational-counselor/industry-safety/
-<br>
 <br>https://thenuy.github.io/ko/link/document/certificate/vocational-counselor/post-page1/
+<br>
+<br>https://thenuy.github.io/ko/link/document/certificate/vocational-counselor/post-page2/
