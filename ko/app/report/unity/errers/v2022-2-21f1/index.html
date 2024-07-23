@@ -30,13 +30,15 @@
         
         <h1><br>[[ Release Unity (2022.2.21f1) ]]</h1>
         
-        <h2><br>[ 릴리스 설치 이후 처음 실행 했을 시 오류 ]</h2>
-        <h3>TLS Allocator ALLOC_TEMP_TLS, underlying allocator ALLOC_TEMP_MAIN has unfreed allocations, size 37</h3>
+        <h2><br>TLS Allocator ALLOC_TEMP_TLS, underlying allocator ALLOC_TEMP_MAIN has unfreed allocations, size 37</h2>
+        <h3>유니티 릴리스 설치 후 처음 실행 시 발생</h3>
+        <p>그냥 유니티 다시 실행 했는데 발생하지 않음.</p>
         <h5>추가 오류</h5>
         <h6>Internal: Stack allocator ALLOC_TEMP_MAIN has unfreed allocations, size 37</h6>
         <h6>To Debug, run app with -diag-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.</h6>
-        <p>그냥 유니티 다시 실행 했는데 발생하지 않음.</p>
-        <p><b>구글링 해결책</b>: [ Reimport All ] </p>
+        <h3>[ Preferences ]에서 [ Cache Management ]경로를 바꿀때 발생</h3>>
+        <h3>구글링 해결책</h3>
+        <p>Reimport All</p>
         <h1><br></h1>
       </div>
       <hr width="100%" color="black" noshade/>
