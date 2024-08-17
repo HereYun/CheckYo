@@ -29,6 +29,7 @@
           <ul>개인적인 공부/복습을 위해 만들어졌기 때문에 언제든 수정·삭제될 수 있습니다.</ul></ol>
         
         <h1><br>[[ Release Unity (2022.2.21f1) ]]</h1>
+        
         <h2><br>TLS Allocator ALLOC_TEMP_TLS, underlying allocator ALLOC_TEMP_MAIN has unfreed allocations</h2>
         <h5>추가 오류</h5>
         <h6>Internal: Stack allocator ALLOC_TEMP_MAIN has unfreed allocations, size 37</h6>
@@ -39,6 +40,15 @@
         <p>그냥 유니티 다시 실행 했는데 발생하지 않음.</p>
         <h3>구글링 해결책</h3>
         <p>Reimport All</p>
+        
+        <h2><br>Init must be called first</h2>
+        <h5>추가 오류</h5>
+        <h6>[PackageManager] Could not create file at:</h6>
+        <h6>The package cache was invalidated and rebuilt because the following immutable asset(s) were unexpectedly altered:<br> Packages/com.unity.timeline/Runtime/Scripting/PlayableTrack.cs<br> Packages/com.unity.2d.animation/package.json</h6>
+        <h3>유니티 SDK에 build-tools와 platforms에 android-34 추가 후 처음 실행 시 발생</h3>
+        <p>그냥 유니티 다시 실행 했는데 발생하지 않음.</p>
+        <h3>구글링 해결책</h3>
+        <p>Unity Hub 베타 쓰지마! (필자는 정식 사용중)</p>
         <h1><br></h1>
       </div>
       <hr width="100%" color="black" noshade/>
