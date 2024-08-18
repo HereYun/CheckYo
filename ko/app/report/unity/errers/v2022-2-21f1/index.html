@@ -35,9 +35,9 @@
         <h6>Internal: Stack allocator ALLOC_TEMP_MAIN has unfreed allocations, size 37</h6>
         <h6>To Debug, run app with -diag-temp-memory-leak-validation cmd line argument. This will output the callstacks of the leaked allocations.</h6>
         <h3>유니티 릴리스 설치 후 처음 실행 시 발생</h3>
-        <p>그냥 유니티 다시 실행 했는데 발생하지 않음.</p>
+        <p>그냥 유니티 다시 실행 했는데 발생하지 않음</p>
         <h3>[ Preferences ]에서 [ Cache Management ]경로를 바꿀때 발생</h3>
-        <p>그냥 유니티 다시 실행 했는데 발생하지 않음.</p>
+        <p>그냥 유니티 다시 실행 했는데 발생하지 않음</p>
         <h3>구글링 해결책</h3>
         <p>Assets -> Reimport All</p>
         
@@ -46,13 +46,17 @@
         <h6>[PackageManager] Could not create file at:</h6>
         <h6>The package cache was invalidated and rebuilt because the following immutable asset(s) were unexpectedly altered:<br>Packages/com.unity.timeline/Runtime/Scripting/PlayableTrack.cs<br>Packages/com.unity.2d.animation/package.json</h6>
         <h3>유니티 SDK에 build-tools와 platforms에 android-34 추가 후 처음 실행 시 발생</h3>
-        <p>그냥 유니티 다시 실행 했는데 발생하지 않음.</p>
+        <p>그냥 유니티 다시 실행 했는데 발생하지 않음</p>
         <h3>구글링 해결책</h3>
         <p>Unity Hub 베타 쓰지마! (필자는 정식 사용중)</p>
         
         <h2><br>Unable to use UDP port 65535 for VS/Unity messaging. You should check if another process is already bound to this port or if your firewall settings are compatible.</h2>
         <h3>유니티에 .dll파일 추가 후 처음 실행 시 발생</h3>
-        <p>그냥 유니티 다시 실행 했는데 발생하지 않음.</p>
+        <p>그냥 유니티 다시 실행 했는데 발생하지 않음</p>
+        <h3>유니티 Platform을 Android로 바꾼 후 Play 할 때마다 계속 발생</h3>
+        <h5>reset packges 후에 추가 오류</h5>
+        <h6>Assembly 'Assets/Plugins/????????.dll' will not be loaded due to errors</h6>
+        <p>dll파일의 참조 오류 수정</p>
         <h3>구글링 해결책</h3>
         <p>Help -> Reset Packages to defaults</p>
         
